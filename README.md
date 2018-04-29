@@ -1,6 +1,6 @@
 
 ```
-> cd Youtube_React
+> cd YoutubeSearch-react
 > npm install
 > npm start
 ```
