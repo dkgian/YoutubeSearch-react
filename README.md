@@ -1,2 +1,6 @@
-# YoutubeSearch-react
-Youtube search application , react
+
+```
+> cd Youtube_React
+> npm install
+> npm start
+```
