@@ -6,7 +6,7 @@ import SearchBar from './components/search_bar'
 import VideoList from './components/video_list'
 import VideoDetail from './components/video_detail'
 //API key
-const API_KEY = 'AIzaSyCT6l0_IRuAZ0YBS-8m-qN9lTdrN3elWn8'
+const API_KEY = [your_api_key];
 
 
 //func-based component (can contains class-based component)
